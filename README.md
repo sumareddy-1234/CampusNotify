@@ -66,4 +66,5 @@ Live Demo:https://sumareddy-1234.github.io/CampusNotify/
 ## 👩‍💻 Author
 
 Suma Reddy
-B.Tech CSE (Data Science)
+B.Tech
+CSE (Data Science)
